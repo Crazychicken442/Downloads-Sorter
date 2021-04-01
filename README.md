@@ -9,3 +9,4 @@ To allow this tool to work you must have python downloaded to your computer.
 3. Look at your newly sorted downloads folder!
 
 Thanks for checking this out
+(There are lots of bugs so I apologize <3)
